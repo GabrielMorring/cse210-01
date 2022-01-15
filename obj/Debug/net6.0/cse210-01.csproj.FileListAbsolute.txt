@@ -1,0 +1,15 @@
+C:\Users\gmorr\Desktop\CSE210\cse210-01\bin\Debug\net6.0\cse210-01.exe
+C:\Users\gmorr\Desktop\CSE210\cse210-01\bin\Debug\net6.0\cse210-01.deps.json
+C:\Users\gmorr\Desktop\CSE210\cse210-01\bin\Debug\net6.0\cse210-01.runtimeconfig.json
+C:\Users\gmorr\Desktop\CSE210\cse210-01\bin\Debug\net6.0\cse210-01.dll
+C:\Users\gmorr\Desktop\CSE210\cse210-01\bin\Debug\net6.0\ref\cse210-01.dll
+C:\Users\gmorr\Desktop\CSE210\cse210-01\bin\Debug\net6.0\cse210-01.pdb
+C:\Users\gmorr\Desktop\CSE210\cse210-01\obj\Debug\net6.0\cse210-01.csproj.AssemblyReference.cache
+C:\Users\gmorr\Desktop\CSE210\cse210-01\obj\Debug\net6.0\cse210-01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmorr\Desktop\CSE210\cse210-01\obj\Debug\net6.0\cse210-01.AssemblyInfoInputs.cache
+C:\Users\gmorr\Desktop\CSE210\cse210-01\obj\Debug\net6.0\cse210-01.AssemblyInfo.cs
+C:\Users\gmorr\Desktop\CSE210\cse210-01\obj\Debug\net6.0\cse210-01.csproj.CoreCompileInputs.cache
+C:\Users\gmorr\Desktop\CSE210\cse210-01\obj\Debug\net6.0\cse210-01.dll
+C:\Users\gmorr\Desktop\CSE210\cse210-01\obj\Debug\net6.0\ref\cse210-01.dll
+C:\Users\gmorr\Desktop\CSE210\cse210-01\obj\Debug\net6.0\cse210-01.pdb
+C:\Users\gmorr\Desktop\CSE210\cse210-01\obj\Debug\net6.0\cse210-01.genruntimeconfig.cache
