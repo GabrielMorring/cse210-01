@@ -96,6 +96,11 @@ static void playGame()
         Console.WriteLine("Enter the number of the place you want to put a tile.");
         
         int newTile = int.Parse(Console.ReadLine());
+        while (totalTiles.Contains(newTile))
+        {
+            Console.WriteLine("That  spot is already taken, try again.");
+            newTile = int.Parse(Console.ReadLine());
+        }
 
         int tilePosition = newTile - 1;
 
